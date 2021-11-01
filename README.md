@@ -1,16 +1,20 @@
-### Hi there 👋
+[![header3](https://user-images.githubusercontent.com/37602685/139709903-aade7809-cb13-4fad-a2e3-c09fd029a2c2.png)](http://manav.gagvani.com/)
+# Hello! 😎
+### I'm Manav Gagvani, a teenage tech nerd who loves to talk about tech! I have a [website](manav.gagvani.com) where I regularly post about what I'm experimenting with!
 
-<!--
-**mgagvani/mgagvani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Tools I use: 
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=B4EEB4)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudio&logoColor=white&color=B4EEB4)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=B4EEB4)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=B4EEB4)
+![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=c&logoColor=white&color=B4EEB4)
+![](https://img.shields.io/badge/Code-HTML/CSS-informational?style=flat&logo=css&logoColor=white&color=B4EEB4)
+![](https://img.shields.io/badge/Shell-WSL-informational?style=flat&logo=gnu-bash&logoColor=white&color=B4EEB4)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgagvani&show_icons=true&theme=merko)
+
+
+
+
+
