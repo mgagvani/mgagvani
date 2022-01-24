@@ -1,6 +1,6 @@
 [![header3](https://user-images.githubusercontent.com/37602685/139709903-aade7809-cb13-4fad-a2e3-c09fd029a2c2.png)](http://manav.gagvani.com/)
 # Hello! 😎
-### I'm Manav Gagvani, a teenage tech nerd who loves to talk about tech! I have a [website](manav.gagvani.com) where I regularly post about what I'm experimenting with!
+### I'm Manav Gagvani, a teenage tech nerd who loves to talk about tech! I have a [website](http://manav.gagvani.com) where I regularly post about what I'm experimenting with!
 
 #### Tools I use: 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=B4EEB4)
