@@ -11,10 +11,4 @@
 ![](https://img.shields.io/badge/Code-HTML/CSS-informational?style=flat&logo=css&logoColor=white&color=B4EEB4)
 ![](https://img.shields.io/badge/Shell-WSL-informational?style=flat&logo=gnu-bash&logoColor=white&color=B4EEB4)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgagvani&show_icons=true&theme=merko)
-
-
-
-
-
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/manav-gagvani/)
